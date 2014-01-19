@@ -11,7 +11,7 @@ $aModule = array(
     'id'           => 'ecs_antipreisalarm',
     'title'        => '<strong style="color:#04B431;">e</strong><strong>ComStyle.de</strong>:  <i>AntiPreisalarm</i>',
     'description'  => array(
-        'de' => '<i>Deaktiviert den Preisalarm im gesamten Shop. Funktioniert erst ab Shopversion 4.8.0!</i>
+        'de' => '<i>Deaktiviert den Preisalarm im gesamten Shop.</i>
                 <br><iframe frameborder="no" width="600px" height="400px" src="http://tinyurl.com/m23ozfo"></iframe>',
     ),
 
