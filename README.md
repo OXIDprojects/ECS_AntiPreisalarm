@@ -12,7 +12,7 @@ Installation:
 	
 Shopversion:
 
-	Ab OXID eShop CE 4.8.0
+	OXID eShop CE 4.7 und 4.8
 	
 Licensing: 
 
