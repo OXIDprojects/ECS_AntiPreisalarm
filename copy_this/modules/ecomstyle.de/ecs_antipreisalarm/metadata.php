@@ -21,7 +21,7 @@ $aModule = array(
     'email'        => 'info@ecomstyle.de',
     'url'          => 'http://ecomstyle.de',
     'extend'       => array(
-        'details'     => 'ecomstyle.de/ecs_antipreisalarm/antipreisalarm' 
+        'oxwarticledetails'     => 'ecomstyle.de/ecs_antipreisalarm/antipreisalarm' 
     ),
 
 );
